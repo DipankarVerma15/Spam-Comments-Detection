@@ -10,10 +10,12 @@ AUTHOR: Name of the comment author
 DATE: Date the comment was posted
 CONTENT: The actual text of the comment
 CLASS: Label indicating whether the comment is spam (1) or not spam (0)
+
 Project Structure
 Youtube01-Psy.csv: The dataset file containing YouTube comments and their respective labels.
 spam_comments_detection.py: Python script containing the entire code for the project.
 README.md: Detailed description of the project (this file).
+
 Dependencies
 pandas: For data manipulation and analysis.
 numpy: For numerical operations.
