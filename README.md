@@ -1,4 +1,3 @@
-# Spam-Comments-Detection
 Spam Comments Detection Using Machine Learning
 Overview
 Spam comments on social media platforms are often used to redirect users to other accounts, websites, or content. Detecting these spam comments is crucial for maintaining the quality and integrity of online interactions. This project focuses on developing a machine learning model to classify YouTube comments as either spam or not spam using a dataset of YouTube spam comments. The project employs the Bernoulli Naive Bayes algorithm for binary classification.
@@ -22,3 +21,4 @@ sklearn: For machine learning algorithms and data preprocessing.
 CountVectorizer: For converting text data into numerical vectors.
 train_test_split: For splitting the dataset into training and testing sets.
 BernoulliNB: For the Naive Bayes classification algorithm.
+Installation
