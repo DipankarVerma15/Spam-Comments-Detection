@@ -24,3 +24,12 @@ CountVectorizer: For converting text data into numerical vectors.
 train_test_split: For splitting the dataset into training and testing sets.
 BernoulliNB: For the Naive Bayes classification algorithm.
 
+Results
+The model achieves an accuracy of approximately 98.57% on the test set, indicating a high level of performance in distinguishing between spam and not spam comments.
+
+Conclusion
+This project demonstrates the use of machine learning for spam comment detection on YouTube. By leveraging the Bernoulli Naive Bayes algorithm, we can effectively classify comments and help maintain the quality of online interactions.
+
+Acknowledgements
+The dataset used in this project is sourced from Kaggle.
+The tutorial and code inspiration are based on articles and tutorials from various online sources.
